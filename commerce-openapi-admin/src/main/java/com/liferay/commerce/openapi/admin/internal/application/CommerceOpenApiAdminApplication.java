@@ -37,7 +37,7 @@ import org.osgi.service.jaxrs.whiteboard.JaxrsWhiteboardConstants;
 		"liferay.jaxrs.exception.mappers.enabled=true",
 		"liferay.jaxrs.message.body.readers.enabled=true",
 		"liferay.jaxrs.message.body.writers.enabled=true",
-		"oauth2.scopechecker.type=annotations"
+		"oauth2.scope.checker.type=annotations"
 	},
 	service = Application.class
 )
